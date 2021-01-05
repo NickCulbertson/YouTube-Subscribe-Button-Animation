@@ -5,9 +5,9 @@ Permission is not needed, just don't repost the full green screen video as-is or
 
 ## Features
 
-• A 6 Second Subscribe Button and Bell Notification Animation
+• 6 Second Subscribe Button and Bell Notification Animation
 
-• A Green Screen Background Easily Removed with Chroma Key 
+• Green Screen Background (Easily Removed with Chroma Key) 
 
 
 ## Implementation
