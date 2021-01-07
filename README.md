@@ -3,6 +3,10 @@ A subscribe button and bell notification animation with green screen for YouTube
 
 Permission is not needed, just don't repost the full green screen video as-is or duplicate for redistribution. I hope it comes in handy!
 
+(Click the image to watch Free YouTube Subscribe Button Animation with Green Screen)
+
+[![Free YouTube Subscribe Button Animation with Green Screen](https://img.youtube.com/vi/ezRqOMyjcSU/0.jpg)](https://www.youtube.com/watch?v=ezRqOMyjcSU "Free YouTube Subscribe Button Animation with Green Screen")
+
 ## Features
 
 • 6 Second Subscribe Button and Bell Notification Animation
@@ -12,7 +16,7 @@ Permission is not needed, just don't repost the full green screen video as-is or
 
 ## Implementation
 
-1. Download the "subscribe.mov" file. Navigate there by clicking on the "subscribe.mov" link above and selecting Download.
+1. Download the "subscribe.mov" file. Click [here](https://github.com/NickCulbertson/YouTube-Subscribe-Button-Animation/blob/main/subscribe.mov) or navigate there by clicking on the "subscribe.mov" link above, then select Download.
 
 2. Import the video into your project, and chroma key out the green screen background. 
 
