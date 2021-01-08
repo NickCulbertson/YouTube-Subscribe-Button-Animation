@@ -16,7 +16,7 @@ A subscribe button and bell notification animation with green screen (or transpa
 
 ## Implementation
 
-1. Click to navigate to the "[subscribe.mov](https://github.com/NickCulbertson/YouTube-Subscribe-Button-Animation/blob/main/subscribe.mov)" or "[subscribe_transparent_background.mov](https://github.com/NickCulbertson/YouTube-Subscribe-Button-Animation/blob/main/subscribe.mov)" file, then select Download.
+1. Click to navigate to the "[subscribe.mov](https://github.com/NickCulbertson/YouTube-Subscribe-Button-Animation/blob/main/subscribe.mov)" or "[subscribe_transparent_background.mov](https://github.com/NickCulbertson/YouTube-Subscribe-Button-Animation/blob/main/subscribe_transparent_background.mov)" file, then select Download.
 
 2. Import the video into your project.
 
