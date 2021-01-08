@@ -1,4 +1,4 @@
-# YouTube Subscribe Button Animation with Green Screen
+# YouTube Subscribe Button Animation with Green Screen or Transparent Background
 A subscribe button and bell notification animation with green screen (or transparent background) for YouTube. Feel free to use it on your YouTube videos. Permission is not needed, just don't repost the full green screen video as-is or duplicate for redistribution. I hope it comes in handy!
 
 (Click the image to watch Free YouTube Subscribe Button Animation with Green Screen)
